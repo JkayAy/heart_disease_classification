@@ -20,6 +20,9 @@ The f1 score is a single metric that combines both precision and recall, providi
  
 A high F1 score indicates that the model has high precision and recall, indicating that it makes accurate positive predictions while capturing a large proportion of positive instances
 
+![image](https://github.com/user-attachments/assets/23a789f0-c453-4189-9c6a-71c12e1fcdb8)
+
+
 FEATURING
 HYPERPARAMETER TUNING
 CROSS VALIDATION
