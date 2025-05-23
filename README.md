@@ -1,7 +1,3 @@
-Based on the notebook contents, here is a professional, well-structured `README.md` file optimized for GitHub visibility and clarity:
-
----
-
 # 🫀 Heart Disease Classification using Machine Learning
 
 ## 📌 Overview
@@ -94,7 +90,3 @@ jupyter notebook Heart\ Disease\ Classification.ipynb
 ## 📜 License
 
 This project is licensed under the MIT License. See `LICENSE` for more information.
-
----
-
-Would you like a `requirements.txt` file generated based on the notebook contents too?
